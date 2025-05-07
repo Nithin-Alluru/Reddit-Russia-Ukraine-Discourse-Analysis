@@ -1,0 +1,8 @@
+networkx
+numpy
+matplotlib
+nx-parallel
+seaborn
+python-louvain
+graphviz
+pygraphviz
