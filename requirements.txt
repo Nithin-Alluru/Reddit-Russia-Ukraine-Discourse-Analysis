@@ -6,3 +6,7 @@ seaborn
 python-louvain
 graphviz
 pygraphviz
+pandas
+nltk
+gensim
+langdetect
